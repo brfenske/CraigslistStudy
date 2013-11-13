@@ -1,0 +1,1010 @@
+﻿.net framework
+.net framework version history
+10-foot user interface
+4+1 architectural view model
+64 studio
+asharp .net
+a-0 system
+abc algol
+abi compliance checker
+absolute linux
+accidental complexity
+ace dasl
+acorn c
+active platform
+activestate komodo
+acyclic dependencies principle
+adaptive software development
+add-in express
+adler linux
+admiral linux
+adobe coldfusion builder
+adobe flash builder
+advanced tactical center
+advantage framework
+after the software wars
+agent architecture
+agent open service interface definition
+agile contracts
+agile manifesto
+agile software development
+agile unified process
+agilent vee
+ajax service bus
+aleris operating system
+algebraic logic functional programming language
+algol 58
+algol 60
+algol 68
+algol 68g
+alpha os
+alt linux
+alto os
+amarok live
+amiga e
+amiga os
+amsterdam compiler kit
+amx rtos
+android studio
+anemic domain model
+antlr studio
+apache gora
+apollo domain/os
+apple dylan
+ar mid-tier
+arch linux
+archimedes os
+architectural pattern
+architecture analysis & design language
+architecture description language
+architecture framework
+architecture tradeoff analysis method
+architecture-centric design method
+architecture-driven modernization
+ark linux
+armed linux
+artificial intelligence systems integration
+asp linux
+asp.net razor view engine
+asp.net web site administration tool
+aspect weaver
+assembly language
+assessment open service interface definition
+ateji px
+atl server
+axure rp
+aztec c
+babel middleware
+banyan vines
+base class library
+basic executive system
+basic for qt
+bauhaus project
+bds c
+bearops linux
+beatrix linux
+beehive linux
+behavior-driven development
+bent linux
+berkeley yacc
+berry linux
+best coding practices
+best practice
+bids helper
+big design up front
+big linux
+binary translation
+bistro framework
+black cat linux
+blackboard system
+blackbox component builder
+blin linux
+blinking twelve problem
+bloody stupid
+blue cat linux
+bmc remedy action request system
+boehm garbage collector
+bonzai linux
+boomerang software framework
+bootable cluster cd
+borland c
+borland together
+borland turbo c
+boro method
+bourne shell
+bricx command center
+bu linux
+business domain
+business intelligence development studio
+business logic
+business requirements
+business-driven development
+c executive
+c shell
+c3 linearization
+caché objectscript
+cactus framework
+caixa mágica
+caldera linux
+cam editor
+camel-view testrig
+cap gemini sdm
+capability maturity model
+capability maturity model integration
+cast application intelligence platform
+catalysis software design method
+ccp (computer control program)
+ccu delivery
+change control board
+chaos model
+chipmunk basic
+chippewa os
+chrome os
+cinder os
+cisco ios
+citrus project
+classification tree method
+class-responsibility-collaboration card
+clonezilla live
+clozure cl
+clr profiler
+cms exec
+cmu common lisp
+cmw+ (sco)
+cockburn scale
+code composer studio
+code coverage
+code insight
+code morphing software
+code rocket
+codecharge studio
+coldstone game engine
+collaborative development environment
+colony framework
+combined programming language
+comeau c/cplusplus
+command substitution
+command-line interface
+comment programming
+commodore os vision
+common component architecture
+common intermediate language
+common lisp
+common modeling infrastructure
+comparison of code generation tools
+comparison of integrated development environments
+compiling environment
+component pascal
+component-based software engineering
+composite ui application block
+composition over inheritance
+conceptual model
+conditional compilation
+conectiva linux
+configure script
+connection broker
+constraint handling rules
+constructed product result analysis
+content assist
+continuous design
+convention over configuration
+conway's law
+cool linux cd
+coral 66
+corel linux
+coursemanagement open service interface definition
+cowboy coding
+cpf (control program facility)
+cpt word processors
+craftworks linux
+cross-platform audio creation tool
+crowdsourcing software development
+crystal clear
+cubic ide
+curve-controlled modeling
+cyclomatic complexity
+damn small linux
+damn vulnerable linux
+data general
+datapoint's advanced systems language
+debian gnu/linux
+debris linux
+debugging patterns
+deep blue c
+deft linux
+degenerate os
+delix linux
+dell unix
+deming os
+demonolithicized application
+dependency injection
+design by contract
+design document listing
+design marker
+design predicates
+design process
+design rationale
+design-driven development
+desktop metaphor
+device software optimization
+dictionary open service interface definition
+digital mars
+digital nervous system
+digital unix
+distributed application specification language
+domain analysis
+domain engineering
+domain model
+domain os
+domain-driven design
+domain-specific multimodeling
+don't repeat yourself
+dos 50
+draco linux
+dragon linux
+dragonfire sdk
+drbl live
+drywell os
+dual vee model
+duplicate code
+dynix unix (sequent)
+e theorem prover
+e/os lx desktop
+ear os
+easy peasy
+easy pl
+easytrieve plus
+eating your own dog food
+eclipse buckminster
+eclipse process framework
+edinburgh imp
+efferent coupling
+efx factory
+egoless programming
+electric fence
+elfstone linux
+emacs lisp
+embarcadero delphi
+embeddable common lisp
+endeavour software project management
+enterprise architect
+enterprise mashup markup language
+enterprise service bus
+enterprise unified process
+equational programming language
+essential complexity
+essential unified process
+euslisp robot programming language
+event partitioning
+event-driven architecture
+evilentity linux
+exec 2
+exploits xmos architecture
+extensible embeddable language
+extreme programming
+extreme programming practices
+ezplanet one
+fabasoft app.ducx
+fabasoft app.test
+facilitated application specification techniques
+farpoint spread
+fasttrack scripting host
+fault-tolerant messaging
+fault-tolerant software
+fc-hba api
+feature creep
+feature model
+feature toggle
+feature-oriented domain analysis
+federated portal network
+filing open service interface definition
+fit/gap analysis
+flex lexical analyser
+flp-80 dos
+formal methods
+formerly g
+fosd mixin layers
+fox desktop
+framework class library
+framework for integrated test
+framework-oriented design
+franz lisp
+free pascal
+free poplog
+front and back ends
+funarg problem
+function model
+function point
+functional design
+functional requirement
+functional software architecture
+functionality equivalence verification
+gabi software
+galaksija basic
+game editor
+game integrated development environments
+game maker language
+gamemonkey script
+gemini nucleus
+general-purpose macro processor
+glasgow haskell compiler
+gm os
+gnat programming studio
+gnu assembler
+gnu binutils
+gnu build system
+gnu cobol
+gnu common lisp
+gnu compiler collection
+gnu compiler for java
+gnu debugger
+gnu e
+gnu guile
+gnu hurd
+gnu interpreter for java
+gnu linker
+gnu mix development kit
+gnu prolog
+gnu smalltalk
+gnu toolchain
+gnubie linux
+goal modeling
+goal-driven software development process
+goal-oriented requirements language
+good old mad
+goodgoat linux
+google chrome os
+google guice
+gos (google os)
+gould os
+grading open service interface definition
+granular linux
+graphical installer
+graphical programming environment
+graphical user interface
+hackety hack
+halloween linux
+halstead complexity measures
+hamilton c shell
+hardware compatibility list
+hartmann pipelines
+haskell user's gofer system
+hierarchy open service interface definition
+high level assembly
+hiphop for php
+hollywood principle
+holon linux
+homesteading the noosphere
+hood method
+hp acplusplus
+hp-87 os
+hpl engine
+ibm basic assembly language
+ibm hascript
+ibm informix-4gl
+ibm pc-dos
+ibm purequery
+ibm rational application developer
+ibm rational doors
+ibm rational software architect
+ibm rational software modeler
+ibm rational team concert
+ibm rpg
+ibm visualage
+ibm websphere integration developer
+ibm xl cplusplus
+icaros desktop
+ice linux
+icepack linux
+icl unix
+ideas group
+identity 2.0
+iec 13816
+iec 14882
+iec 1539
+iec 1989
+iec 23270
+iec 62304
+ieee 1471
+ifip working group 2.10
+illumination software creator
+imagix 4d
+implicit invocation
+implicit web
+including bash and ksh
+incremental build model
+informatics now vision:builder of ca
+information engineering
+inline caching
+integrated data management
+integrated development environment
+integrated project support environment
+integration competency center
+integration objects
+integrity rtos
+intel cplusplus compiler
+intelligent code completion
+intellij idea
+interaction flow modeling language
+interactive design
+interface bloat
+interface metaphor
+interface segregation principle
+international requirements engineering board
+internet-speed development
+inversion of control
+ios sdk
+iridium os
+isc (interactive)
+iseries qshell
+iso/iec 12207
+iso/iec 15504
+iso/iec 42010
+iterative and incremental development
+jackson system development
+jargon software
+jato vm
+jaus tool set
+java pathfinder
+javafx script
+jboss developer studio
+jboss tools
+join java
+joint application design
+joli os
+jurix linux
+justinmind prototyper
+k linux
+kaladix linux
+kiss principle
+kiwi linux
+knoppix 64
+knowledge discovery metamodel
+kuka robot language
+kuki linux
+l os
+lsharp .net
+lan manager
+lattice c
+leadwerks script
+lean integration
+lean software development
+lejos development toolkit
+lexical analysis
+liberty basic workshop
+libranet linux
+library oriented architecture
+light table
+lightweight methodology
+linear code sequence and jump
+linux antarctica
+linux by libranet
+linux da os
+linux distributions (611)
+linux mint
+linux trace toolkit
+linux xp
+linux+ live
+lisa os
+list & label
+list of arm cortex-m development tools
+list of command-line interpreters
+list of graphical user interface builders and rapid application development tools
+list of microsoft visual studio add-ins
+list of performance analysis tools
+list of software development philosophies
+little b
+livecd router
+llblgen pro
+logging open service interface definition
+long mode
+lst linux
+lucky logic
+lycoris desktop/lx
+mac os 8
+mac os 9
+mac os x
+mac ruby
+machine code
+machine-dependent software
+macintosh common lisp
+macintosh programmer's workshop
+maestro i
+man or boy test
+managed directx
+managed extensions for cplusplus
+marte os
+masm microsoft assembly x86
+maverick os
+max msp
+maxine virtual machine
+maxscript internal language 3d studio max
+mcp (master control program)
+media lab
+megamax c
+memory pool system
+messaging open service interface definition
+meta-circular evaluator
+meta-process modeling
+mibe architecture
+michigan algorithm decoder
+micro programming language
+microsoft basic
+microsoft interface definition language
+microsoft macro assembler
+microsoft p-code
+microsoft robotics developer studio
+microsoft security development lifecycle
+microsoft solutions framework
+microsoft visual c sharp
+microsoft visual cplusplus
+microsoft visual sourcesafe
+microsoft visual studio
+microsoft visual studio debugger
+microsoft visual studio express
+microsoft web platform installer
+microsoft webmatrix
+microsoft windows sdk
+microsoft xna
+milepost gcc
+min test framework
+miray µnos
+mirth connect
+misuse case
+mite 80/ios
+miva script
+mk ii fpa
+mks toolkit
+mobile simulator
+model 1
+model 2
+model 204
+model view viewmodel
+model-driven software development
+modified waterfall models
+modular approach to software construction operation and test
+monitoring maintenance lifecycle
+monolithic application
+monolithic system
+monte vista linux
+motor industry software reliability association
+mpe os
+msdn library
+multi distro
+multilayered architecture
+multimodal architecture and interfaces
+multitier architecture
+multiuse model view
+myah os
+naked objects
+naked objects mvc
+narrative designer
+navyn os
+ncr unix
+nec dos
+needs analysis
+netbeans bluej edition
+netmax desktop
+netstation linux
+netwide assembler
+newt syrup
+newton os
+node graph architecture
+node os
+nomad linux
+non-functional requirement
+non-functional requirements framework
+norcroft c compiler
+not exactly c
+not quite c
+novell dos
+ns basic
+object file
+object language
+object lisp
+object pascal
+object rexx
+object-oriented analysis and design
+object-oriented design
+object-oriented design ontology
+object-oriented modeling
+occasionally connected computing
+oel jeos
+office controller
+ola dom
+omega 4
+omnis studio
+on time rtos-32
+onebase linux
+online javascript ide
+open architecture
+open cobalt
+open firmware
+open progex
+open service interface definitions
+open source software world challenge
+open/closed principle
+openedge abl
+open-source software assessment methodologies
+opportunity management
+optimizing compiler
+oracle solaris studio
+os/2 warp
+outside–in software development
+ow2 orchestra
+p basic
+package development process
+package principles
+palm os
+paper prototyping
+parasoft concerto
+parrot virtual machine
+parsix gnu/linux
+payload abstraction
+p-code machine
+peanut linux
+pelles c
+penguin sleuth
+perpetual beta
+personal profile
+personal software process
+phantom os
+phase–gate model
+phat linux
+pic micro pascal
+pie box
+pioneer linux
+pipe and filter architecture
+plan 9
+planning poker
+platform-independent model
+platform-specific model
+plop linux
+pm declaration of interdependence
+p-modeling framework
+pocket linux
+pocket scheme
+pocketpc 2003
+policy-based design
+portable c compiler
+power desktop
+pozix linux
+presentation logic
+presenter first
+principle of good enough
+problem frames approach
+problem-oriented development
+process driven development
+process explorer
+process specification
+process substitution
+process-centered design
+product requirements document
+product software implementation method
+program analyzer
+program lifecycle phase
+programming complexity
+programming language from kx systems
+programming language implementation
+programming languages: application and interpretation
+programming tool
+programming without coding technology
+protean ide
+protected mode
+protocol builder
+pts dos
+public interface
+python tools for visual studio
+qt creator
+quality-driven architecture design
+quanta plus
+rapid application development
+rapid php editor
+rationally adaptive process
+real mode
+realaxy actionscript editor
+realogy real time architekt
+red flag
+red hat
+redhawk linux
+redmond linux
+redwall firewall
+reference architecture
+release early, release often
+remedy flashboards
+report generator
+repository open service interface definition
+representational state transfer
+requirement prioritization
+requirements analysis
+requirements elicitation
+requirements engineering
+requirements management
+requirements modeling framework
+requirements traceability
+resource-oriented architecture
+resource-oriented computing
+responsibility-driven design
+reuse metrics
+revision control
+rich client platform
+rich internet application
+ripple effect
+risc os
+rise editor
+rms 68k
+rock linux
+rocks cluster
+rotateright zoom
+rr4 linux
+rt mach ntt
+ruby mri
+rule of least power
+runahead solution
+runtime intelligence service
+samhain linux
+santa fe
+sap enterprise architecture framework
+sap implementation
+sap netweaver developer studio
+scheduling open service interface definition
+schlemiel the painter's algorithm
+sco linux
+sco openserver
+scp (system control program)
+scrum master
+scrum pattern
+search-oriented architecture
+secure by design
+semantic architecture
+semantic service-oriented architecture
+sentry firewall
+service development studio
+service-oriented architecture implementation framework
+service-oriented development of applications
+service-oriented distributed applications
+sevms vax
+shared disk architecture
+shared nothing architecture
+sharpos aot
+shed skin
+shift linux
+shift script
+shlaer–mellor method
+shortcode activation protocol
+simulated reality
+single responsibility principle
+sintran iii
+situational application
+slitaz gnu/linux
+slow design
+slow programming
+small basic
+small device c compiler
+smalltalk yx
+smart client
+sme server
+snap points
+snapgear embedded linux
+soft goal
+software analysis pattern
+software architect
+software architectural model
+software architecture
+software architecture analysis method
+software architecture description
+software architecture recovery
+software architecture styles and patterns
+software blueprint
+software defect indicator
+software design
+software design description
+software design document
+software development methodology
+software development process
+software engineering process group
+software entropy
+software framework
+software intelligence
+software measurement
+software metric
+software metrics metamodel
+software package metrics
+software parametric models
+software requirements
+software requirements specification
+software testing automation framework
+software transactional memory
+softwell maker
+solbourne unix
+sot linux
+space-based architecture
+spec explorer
+spectra linux
+speculative multithreading
+sperry now part of bis
+spiral model
+ssp (system support program)
+staged event-driven architecture
+standard ml
+standard ml of new jersey
+stani's python editor
+starplex ii os
+state space enumeration
+steel bank common lisp
+story-driven modeling
+strawberry prolog
+structured analysis
+structured systems analysis and design method
+subsumption architecture
+sugar on a stick
+sun java studio creator
+sun java wireless toolkit
+sun linux
+sun wah
+sun web developer pack
+swat team
+symbian os
+symphony os
+synchronization complexity
+synchrony abstraction
+syntax definition formalism
+synthetic environment for analysis and simulations
+system 6 (mac os)
+system 7 (mac os)
+system requirements
+system v release
+system/34 basic
+systems architecture
+systems design
+systems development life-cycle
+tag cloud
+tail call
+tao live
+tao platform
+task computing
+team foundation server
+team software process
+technical debt
+template:microsoft development tools
+tendra compiler
+test & performance tools platform
+test double
+test-driven development
+test-driven development by example
+tester driven development
+text template transformation toolkit
+the cathedral and the bazaar
+the magic cauldron
+the portland group
+the scripter's scrapbook
+there's more than one way to do it
+think c
+think reference
+threaded code
+ti-99 4a
+tibbo basic
+tinfoil hat linux
+tiny c compiler
+tis apl
+titan lev
+tmg, compiler-compiler
+top development
+top php studio
+top-down and bottom-up design
+tpf (transaction processing facility)
+traceability matrix
+transformation priority premise
+transport/protocol abstraction
+trisquel gnu/linux
+tru64 unix
+turbo cplusplus
+turbo modula-2
+tweak programming environment
+ubuntu netbook remix
+ubuntu privacy remix
+ucsd pascal
+ufficio zero
+undefined behavior
+uni flex
+unified code count
+unified process
+unifix linux
+uniform access principle
+unisys u5000
+unix shell
+unix system
+unladen swallow
+unreal x-editor
+upstream tracker
+urli os
+use case
+use case diagram
+use case points
+use case survey
+use-case analysis
+user experience design
+user requirements document
+user story
+v2 os
+virtual 8086 mode
+virtual machine
+vision document
+visual & installer
+visual assembler
+visual assist x
+visual basic
+visual basic .net
+visual csharp
+visual cplusplus
+visual cplusplus name mangling
+visual café
+visual dataflex
+visual dialogscript
+visual eiffel
+visual fortran
+visual foxpro
+visual interdev
+visual jsharp
+visual jplusplus
+visual lisp
+visual network os
+visual objects
+visual prolog
+visual studio application lifecycle management
+visual studio extensibility
+visual studio lab management
+visual studio test professional
+visual studio tools for applications
+visual studio tools for office
+visual studio unit testing framework
+vsts profiler
+watcom c/cplusplus compiler
+waterfall model
+watfiv, watfor
+web api
+web application
+web container
+web development tools
+web of things
+webfish linux
+webmaker cms
+webmethods developer
+weighted micro function points
+wheel and spoke model
+white box
+windows 2000
+windows 7
+windows 8
+windows 95
+windows 98
+windows 98 se
+windows automotive
+windows ce
+windows driver kit
+windows hardware certification kit
+windows me
+windows nt
+windows powershell
+windows server 2003
+windows server 2003 r2
+windows server 2008
+windows server 2008 r2
+windows vista
+windows xp
+winlinux 2001
+workflow open service interface definition
+worse is better
+xbox development kit
+xdk debug bios
+xerox development environment
+ximian desktop
+yellow dog
+yggdrasil linux
+ylmf os
+you aren't gonna need it
+z notation
+zend studio
+zero one infinity rule
+zeus zilog
+zrts 8000
